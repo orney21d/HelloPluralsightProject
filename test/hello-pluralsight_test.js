@@ -5,6 +5,7 @@ var jsdom = require('jsdom'),
 
 var { JSDOM } = jsdom;
 
+var test = "Test to commit";
 describe('Your HTML Page', function() {
   var window;
 
